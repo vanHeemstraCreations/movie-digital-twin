@@ -12,14 +12,18 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Crisis
+## 300 - Rising Action
 
 See [README.md](./300/README.md)
 
-## 400 - Climax
+## 400 - Dilemma
 
 See [README.md](./400/README.md)
 
-## 500 - Resolution
+## 500 - Climax
 
 See [README.md](./500/README.md)
+
+## 600 - Resolution
+
+See [README.md](./600/README.md)
