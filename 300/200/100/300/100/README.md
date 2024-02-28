@@ -1,6 +1,6 @@
 # 100 - Key Moment: Have a Logical, but Surprising, End
 
-See ```screenplay-digital-twin.fountain``` created with https://fountain.io/
+See ```screenplay-digital-twin.fountain``` created with https://fountain.io/ open with https://www.supernotecard.com/
 
 ## SCENE 08: EXT. TALL OFFICE BUILDING - END OF DAY
 
