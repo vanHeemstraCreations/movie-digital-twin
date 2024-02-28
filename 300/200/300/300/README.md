@@ -33,3 +33,7 @@ Notice how the story moves from *virtually no chance of death* to *death almost 
 The story moves the value from the positive form to the negative, and depending on the value, back again. The story's arc is creatd through this rise and fall moment.
 
 This same story arc can be used to tell a love story, a performance story, or even a coming-of-age story. The arc stays the same, but the value being represented by the arc changes.
+
+**Each plot must have its own arc.**
+
+**Short stories **(like our story)** only have one arc**. If you're writing a short story, it only has one arc. And usually that arc will only have one or two movements.
