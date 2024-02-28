@@ -1,4 +1,3 @@
-## 100 - Storytelling
 # 200 - Screenwriting
 
 ## 100 - Three Act Structure
