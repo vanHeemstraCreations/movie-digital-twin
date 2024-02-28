@@ -9,7 +9,7 @@ An armageddon style flood of alarm clocks, contracts, pens, to-do lists, and pho
 ## SCENE 05: INT. SHARED OFFICE SPACE - DAYDREAM
 
 ```
-Windows break as the burst of deman makes its way into the shared office space. Engineers ripped out of their seats. Mayhem.
+Windows break as the burst of demand makes its way into the shared office space. Engineers are ripped out of their seats. Mayhem.
 
         IT PERSON
     Can I help you?
