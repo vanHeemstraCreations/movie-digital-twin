@@ -21,3 +21,7 @@ See [README.md](./400/README.md)
 ## 500 - These 9 Types of Stories Work for Any Story Arc
 
 See [README.md](./500/README.md)
+
+## 600 - 2 Tips About How to Use These Plot Types
+
+See [README.md](./600/README.md)
