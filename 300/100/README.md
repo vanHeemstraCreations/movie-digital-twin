@@ -18,6 +18,6 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
-## 500 - Story Arc
+## 500 - These 9 Types of Stories Work for Any Story Arc
 
 See [README.md](./500/README.md)
