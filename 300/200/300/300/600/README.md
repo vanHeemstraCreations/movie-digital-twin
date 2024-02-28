@@ -1,2 +1,4 @@
-# 600 - Resolution
+# 600 - Resolution (also known as Denouement)
+
+
 

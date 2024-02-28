@@ -24,6 +24,6 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
-## 600 - Resolution
+## 600 - Resolution (also known as Denouement)
 
 See [README.md](./600/README.md)
