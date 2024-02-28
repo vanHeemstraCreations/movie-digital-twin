@@ -1,3 +1,3 @@
 # 200 - Inciting Incident
 
-The Engineer is warned that the demand for her service in the near future will be overwhelming. Yet, she is put on hold for IT support since a very long time, and it looks like she won't be helped anytime soon with accommodating for this uprise in demand. Stress evolves from this extra tension. **Success versus Failure value measure**: a threat of not being able to supply the increase in demand emerges.
+The Engineer is warned that the demand for her service in the near future will be overwhelming. Yet, she is put on hold for IT support since a very long time, and it looks like she won't be helped anytime soon with accommodating for this uprise in demand. Stress evolves from this extra tension. **Success versus Failure value measure**: a threat of not being able to fulfill the increase in demand emerges.
