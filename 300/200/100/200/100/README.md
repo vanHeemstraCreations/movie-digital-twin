@@ -3,7 +3,7 @@
 ## SCENE 04: EXT. TALL OFFICE BUILDING - DAYDREAM
 
 ```
-An armageddon style flood of alarm clocks, contracts, pens, to-do lists, nd phones batter the skies taking no hostages.
+An armageddon style flood of alarm clocks, contracts, pens, to-do lists, and phones batter the skies taking no hostages.
 ```
 
 ## SCENE 05: INT. SHARED OFFICE SPACE - DAYDREAM
