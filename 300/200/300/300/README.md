@@ -27,3 +27,9 @@ See [README.md](./500/README.md)
 ## 600 - Resolution (also known as Denouement)
 
 See [README.md](./600/README.md)
+
+Notice how the story moves from *virtually no chance of death* to *death almost a certainty* to *the resolution*, where survival seems even more precious because of how close the protagonist came to death.
+
+The story moves the value from the positive form to the negative, and depending on the value, back again. The story's arc is creatd through this rise and fall moment.
+
+This same story arc can be used to tell a love story, a performance story, or even a coming-of-age story. The arc stays the same, but the value being represented by the arc changes.
