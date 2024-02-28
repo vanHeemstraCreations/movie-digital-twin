@@ -1,5 +1,9 @@
 # SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
-We make us of stock footage for this scene:
+We make us of this stock footage for this scene:
 
 - https://www.pexels.com/video/tall-building-meets-the-sky-5828443/
+
+We make use of these stock images for this scene:
+
+- https://en.wikipedia.org/wiki/ASML_Holding#/media/File:ASML_Holding_N.V._logo.svg
