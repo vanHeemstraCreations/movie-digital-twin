@@ -1,6 +1,10 @@
 # 200 - Key Moment: Build to Probable Outcomes
 
-See ```screenplay-digital-twin.fountain``` created with https://fountain.io/ open with https://www.supernotecard.com/ or https://afterwriting.com/
+See ```screenplay-digital-twin.fountain``` created with https://fountain.io/ open with:
+
+- https://www.supernotecard.com/
+- https://afterwriting.com/ 
+- https://www.screenplain.com/
 
 ## SCENE 06: INT. SHARED OFFICE SPACE - DAY
 

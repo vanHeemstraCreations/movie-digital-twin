@@ -1,6 +1,10 @@
 # 100 - Key Moment: Involve the Characters in the Situation
 
-See ```screenplay-digital-twin.fountain``` created with https://fountain.io/ open with https://www.supernotecard.com/ or https://afterwriting.com/
+See ```screenplay-digital-twin.fountain``` created with https://fountain.io/ open with:
+
+- https://www.supernotecard.com/ 
+- or https://www.screenplain.com/  
+- or https://www.screenplain.com/
 
 ## SCENE 04: EXT. TALL OFFICE BUILDING - DAYDREAM
 
