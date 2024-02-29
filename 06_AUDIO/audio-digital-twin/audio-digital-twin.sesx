@@ -85,7 +85,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="12f13b35-346b-43e2-be6c-de4bbd95cb1f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="99d6c38e-c3d2-4292-9a47-2c37253794c4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -175,7 +175,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="53a9f5a5-209c-4eb3-9a0a-d9b74a81a60a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a0e09f44-4988-4842-aa84-985019fe8734" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -192,7 +192,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10003" index="3" select="true" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10003" index="3" select="false" visible="true">
         <trackParameters trackHeight="134" trackHue="51" trackMinimized="false">
           <name>Track 3</name>
         </trackParameters>
@@ -259,13 +259,13 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="813723" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="341553__dggrunzweig__ambulance" offline="false" select="true" sourceInPoint="2316602" sourceOutPoint="3130325" startPoint="0" zOrder="6">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="813723" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="341553__dggrunzweig__ambulance" offline="false" select="false" sourceInPoint="2316602" sourceOutPoint="3130325" startPoint="0" zOrder="6">
           <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;ambience&quot;},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:5},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;b3526c89-21a6-48b6-bb5e-7f323a45a206&quot;},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}}}}}},&quot;StereoWidthSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
           <component componentGuid="bdf8d14f-cbd5-4d92-83c8-8bb9e541bb08" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="fef12a61-71ab-49c2-8db2-177e29614db4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="bb1de412-fa93-4b14-b787-c79f4a6cb320" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -282,7 +282,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10004" index="4" select="false" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10004" index="4" select="true" visible="true">
         <trackParameters trackHeight="134" trackHue="182" trackMinimized="false">
           <name>Track 4</name>
         </trackParameters>
@@ -349,6 +349,46 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="579570" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="316640__bevibeldesign__angry-mob-loop" offline="false" select="false" sourceInPoint="0" sourceOutPoint="579570" startPoint="0" zOrder="0">
+          <component componentGuid="431bb1e2-25b2-47d4-86ad-c62824e729d2" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="9615cefd-fefe-40c9-8d2e-c3080d08d51f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="a7299d93-0b73-48a5-9f2b-b379b35619d4" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="579570" shape="18" startPoint="386341" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="965911" fileID="4" hue="-1" id="1" lockedInTime="false" looped="false" name="316640__bevibeldesign__angry-mob-loop" offline="false" select="true" sourceInPoint="0" sourceOutPoint="579570" startPoint="386341" zOrder="1">
+          <component componentGuid="c29a5139-b4c7-40ef-b658-c353d5581853" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="4229c2dd-0b9f-4be3-a9ad-1bb70b4918ae" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="7b233bcf-42cc-4b3b-963a-69f7f4f5f145" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="193229" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="579570" shape="19" startPoint="579570" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+          </channelMap>
+        </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10005" index="5" select="false" visible="true">
         <trackParameters trackHeight="134" trackHue="294" trackMinimized="false">
@@ -572,9 +612,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 24.2 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2024-02-27T13:46:53+01:00</xmp:CreateDate>
-         <xmp:MetadataDate>2024-02-29T11:19:11+01:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2024-02-29T11:19:11+01:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:9994a373-3ffd-42d9-ad57-def7c3b64b05</xmpMM:InstanceID>
+         <xmp:MetadataDate>2024-02-29T12:30:55+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-02-29T12:30:55+01:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:5e35ea8c-63e0-455f-afdd-ade6ace6f00b</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:527b7f79-2b7e-4ea9-8ed8-589b0e07b5fe</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:527b7f79-2b7e-4ea9-8ed8-589b0e07b5fe</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -681,6 +721,34 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:9994a373-3ffd-42d9-ad57-def7c3b64b05</stEvt:instanceID>
                   <stEvt:when>2024-02-29T11:19:11+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:db2e4884-fcf6-43b9-a0b6-360b423c5632</stEvt:instanceID>
+                  <stEvt:when>2024-02-29T12:29:17+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4e46c18c-b049-4954-9d85-8f7ab9dacd44</stEvt:instanceID>
+                  <stEvt:when>2024-02-29T12:29:17+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ef880946-5212-4bc9-ab81-63d80582400e</stEvt:instanceID>
+                  <stEvt:when>2024-02-29T12:30:55+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5e35ea8c-63e0-455f-afdd-ade6ace6f00b</stEvt:instanceID>
+                  <stEvt:when>2024-02-29T12:30:55+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -812,6 +880,7 @@
     <file absolutePath="/usr/local/opt/movies/movie-digital-twin/04_VIDEO/FOOTAGE/Digital Twin.mp4" id="1" mediaHandler="ImporterHost" relativePath="../../04_VIDEO/FOOTAGE/Digital Twin.mp4"/>
     <file absolutePath="/usr/local/opt/movies/movie-digital-twin/06_AUDIO/audio-digital-twin/Conformed Files/250268__niedec__downtown-traffic-and-crowd-noises 48000 1.wav" id="2" mediaHandler="AmioWav" relativePath="Conformed Files/250268__niedec__downtown-traffic-and-crowd-noises 48000 1.wav"/>
     <file absolutePath="/usr/local/opt/movies/movie-digital-twin/06_AUDIO/audio-digital-twin/Conformed Files/341553__dggrunzweig__ambulance.wav" id="3" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" relativePath="Conformed Files/341553__dggrunzweig__ambulance.wav"/>
+    <file absolutePath="/usr/local/opt/movies/movie-digital-twin/06_AUDIO/audio-digital-twin/Conformed Files/316640__bevibeldesign__angry-mob-loop.aiff" id="4" importerPrivateSettings="ByteOrdering:0:1;Compression:0:0;SampleType:0:40;" mediaHandler="AmioAiff" relativePath="Conformed Files/316640__bevibeldesign__angry-mob-loop.aiff"/>
   </files>
 
   <audioDevice inputID="22222222-2222-2222-2222-22222222" outputID="AppleHDAEngineOutput:1B,0,1,2:0">
