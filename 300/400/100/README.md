@@ -7,8 +7,3 @@ We make us of this stock footage for this scene:
 We make use of these stock images for this scene:
 
 - https://en.wikipedia.org/wiki/ASML_Holding#/media/File:ASML_Holding_N.V._logo.svg
-
-We make use of these effects for this scene:
-
-- Tall Office Buildings: Time Remap
-- Tall Office Buildings: Tracker
