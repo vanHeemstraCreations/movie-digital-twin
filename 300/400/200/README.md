@@ -1,8 +1,12 @@
 # SCENE 02: INT. SHARED OFFICE SPACE - DAY
 
-We make us of this stock footage for this scene:
+We make use of this stock footage for this scene:
 
 - [A Woman Working](https://www.pexels.com/video/a-woman-working-5717280/)
+
+We make use of these stock images for this scene:
+
+- [Elite Office Chair](https://www.pngkey.com/download/u2e6w7t4w7i1i1a9_elite-office-chair-office-chairs-high-back/)
 
 We make use of these stock sounds for this scene:
 
