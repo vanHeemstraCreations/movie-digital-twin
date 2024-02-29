@@ -13,4 +13,4 @@ We make use of these sounds for this scene:
 - [Downtown traffic and crowd noises](https://freesound.org/people/Niedec/sounds/250268/)
 - [Ambulance.wav](https://freesound.org/people/dggrunzweig/sounds/341553/)
 - [angry mob loop.aiff](https://freesound.org/people/bevibeldesign/sounds/316640/)
-- ..
+- [big_dog_barking.wav](https://freesound.org/people/buzzmsc/sounds/428860/)
