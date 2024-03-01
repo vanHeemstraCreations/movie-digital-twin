@@ -8,6 +8,6 @@ We follow these tutorials for this scene:
 - [Animate graphs in After Effects like a pro](https://www.youtube.com/watch?v=UI6T0ISGlJE)
 - [After Effects Plugin Squash & Stretch Easy Animation Tutorial](https://aescripts.com/learn/after-effects-plugin-squash-and-stretch-easy-animation-tutorial/)
 
-We use these plugins / scripts for this scene:
+We use these plugins / scripts / extensions for this scene:
 
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/ )
