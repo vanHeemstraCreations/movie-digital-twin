@@ -11,7 +11,7 @@ We follow these tutorials for this scene:
 - [Create a realistic Iris in After Effects](https://www.youtube.com/watch?v=60nee-cy3ng)
 - [After Effects Free Eye Rigs](https://benmarriott.gumroad.com/l/Swkyf?layout=profile&recommended_by=library)
 - [After Effects Quick Tip: Set Matte Effect](https://www.youtube.com/watch?v=BbH2STGZ-60)
-- [134 - Screen Animations](https://videocopilot.net/tutorials/screen-animations)
+- [134 - Screen Animations](https://videocopilot.net/tutorials/screen_animations)
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 - ~~[Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)~~
 
