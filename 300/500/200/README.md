@@ -9,6 +9,7 @@ We follow these tutorials for this scene:
 - [After Effects Plugin Squash & Stretch Easy Animation Tutorial](https://aescripts.com/learn/after-effects-plugin-squash-and-stretch-easy-animation-tutorial/)
 - [Simple Egg In After Effects Tutorial](https://www.youtube.com/watch?v=b4l8Jbfk1FY)
 - [Create a realistic Iris in After Effects](https://www.youtube.com/watch?v=60nee-cy3ng)
+- [134 - Screen Animations](https://videocopilot.net/tutorials/screen-animations)
 
 We use these plugins / scripts / extensions for this scene:
 
