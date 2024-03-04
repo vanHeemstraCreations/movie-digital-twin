@@ -13,6 +13,7 @@ We follow these tutorials for this scene:
 - [After Effects Quick Tip: Set Matte Effect](https://www.youtube.com/watch?v=BbH2STGZ-60)
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen-animations)
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
+- [Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)
 
 We use these plugins / scripts / extensions for this scene:
 
