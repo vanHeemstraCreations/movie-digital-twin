@@ -4,11 +4,14 @@
 
 | Layers | Start | End |
 | --- | --- | --- |
-| Desktop Items  | | |
+| Desktop Items | | |
 | Character A | | |
+| Shared Office Space | | |
 
 ## 200 - MEDIUM SHOT: Laptop - Front
 
 | Layers | Start | End |
 | --- | --- | --- |
-|  Graph  | | |
+| Graph | | |
+| Laptop Front | | |
+| Shared Office Space | | |
