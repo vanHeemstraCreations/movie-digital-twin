@@ -6,6 +6,7 @@ We follow these tutorials for this scene:
 - [*Solution* 3D Camera Tracker: Layer Size Must Match Composition And Use Default Transform Values](https://www.youtube.com/watch?v=oQtQ6CUV-Lg)
 
 - [Learn Time Remapping & Speed Ramps in After Effects](https://motionarray.com/learn/after-effects/time-remapping-in-after-effects/)
+- [Super Smooth Slow Motion In After Effects | Speed Ramping Tutorial](https://www.youtube.com/watch?app=desktop&v=Ras1QEYvH2M&t=0)
 
 We make use of these effects for this scene:
 
