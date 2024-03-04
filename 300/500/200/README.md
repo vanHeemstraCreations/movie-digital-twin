@@ -10,6 +10,7 @@ We follow these tutorials for this scene:
 - [Simple Egg In After Effects Tutorial](https://www.youtube.com/watch?v=b4l8Jbfk1FY)
 - [Create a realistic Iris in After Effects](https://www.youtube.com/watch?v=60nee-cy3ng)
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen-animations)
+- [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 
 We use these plugins / scripts / extensions for this scene:
 
