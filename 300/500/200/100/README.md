@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Desktop Items | | | 3D |
 | Character A | | | 3D |
-| 3D Track Camera | | | 3D |
+| 3D Tracker Camera | | | 3D |
 | Shared Office Space | | | 2D |
 
 ## 200 - MEDIUM SHOT: Laptop - Front
