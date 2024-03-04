@@ -5,3 +5,9 @@
 | Layers | Start | End |
 | --- | --- | --- |
 |     |     |     |
+
+## 200 - MEDIUM SHOT: Laptop - Front
+
+| Layers | Start | End |
+| --- | --- | --- |
+|     |     |     |
