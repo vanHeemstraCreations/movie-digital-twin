@@ -14,6 +14,7 @@ We follow these tutorials for this scene:
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen_animations)
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 - ~~[Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)~~
+- [Making a 3D iphone mockup with After Effects and Element 3D (tutorials)](https://www.youtube.com/watch?v=IwCjLaB8AmE)
 
 We use these plugins / scripts / extensions for this scene:
 
