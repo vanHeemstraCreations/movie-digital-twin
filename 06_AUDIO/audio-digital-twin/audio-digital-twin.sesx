@@ -8,7 +8,7 @@
         <trackParameters trackHeight="70" trackHue="-1" trackMinimized="false">
           <name>Video Reference</name>
         </trackParameters>
-        <videoClip endPoint="1668867" fileID="7" hue="-1" id="0" lockedInTime="false" name="Digital Twin" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1668867" startPoint="0" zOrder="0">
+        <videoClip endPoint="1668867" fileID="7" hue="-1" id="0" lockedInTime="false" name="Digital Twin" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1668867" startPoint="0" zOrder="3">
           <videoFormat fieldType="0" height="1080" parDenominator="1" parNumerator="1" pixelType="0" sampleSize="1001" timeScale="30000" width="1920"/>
         </videoClip>
       </videoTrack>
@@ -85,7 +85,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="d0deea88-344e-40e7-84e4-1e59b917e7ea" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="e54a819e-872d-40ab-b82c-9b73813528ce" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -175,7 +175,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b669df8b-372f-40d3-aa15-88d1459a5486" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="af626a12-eccc-4884-833a-32fee186c94e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -265,7 +265,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0ea1b665-77db-4622-90d5-abecd9c5a235" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="4c4152e0-130a-45df-af57-bb61015136b0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -354,7 +354,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="661b6459-ae88-41b7-9c1e-dc41bdb9af28" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="1c03700f-0fd8-4c3b-b96c-31adf2f2f6f6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -374,7 +374,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="510187f5-3105-4b38-aef2-25dd669bb745" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b2438063-62f4-445e-80f3-f512380b57b6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -462,7 +462,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="fd2b6eb2-c907-4e9f-b6a1-a44ebb34ccbe" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a97f8033-7f38-4060-85d5-21c8558648f3" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -551,7 +551,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b0a93a1e-9b87-4e45-aa92-076a485eac29" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="0c568546-c764-43da-99e7-66aeb14d8bbe" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -568,25 +568,25 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10008" index="7" select="true" visible="true">
-        <trackParameters trackHeight="55" trackHue="326" trackMinimized="false">
+      <audioTrack automationLaneOpenState="false" id="10009" index="7" select="true" visible="true">
+        <trackParameters trackHeight="80" trackHue="326" trackMinimized="false">
           <name>The high tech industry ...</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
           <trackOutput outputID="10000" type="trackID"/>
           <trackInput inputID="1"/>
-          <component componentGuid="44c60e61-c231-48dc-ac5d-e54ce2be4066" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+          <component componentGuid="e8cd518d-e6c3-46cb-a32c-0dcee55fa484" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="23cc7fe2-be13-4785-8977-3f9bb765acc9" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+          <component componentGuid="312051c8-4f22-4f81-8a47-08b0aa1beb18" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="d2daaa5f-d042-48fa-9d43-f2fbe9c9d120" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+          <component componentGuid="324e395c-fce0-43bc-8ede-0e88769be392" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
-          <component componentGuid="6f09499c-d181-4521-91b3-6024a4f197a4" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+          <component componentGuid="2cb80109-a2f4-44af-9af2-e41281d03351" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
             <parameter index="0" name="Low Shelf Frequency" parameterValue="0.000834028352983295917510986328125"/>
             <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
             <parameter index="2" name="High Shelf Frequency" parameterValue="0.74979150295257568359375"/>
@@ -634,75 +634,21 @@
             <parameter index="44" name="LowGraphRange" parameterValue="1"/>
           </component>
         </trackAudioParameters>
-        <effectsRack preFader="true">
-          <component componentGuid="9e7c24c8-571e-4f31-824e-1c7631e26754" componentID="Audition.ComponentGroup" id="rackMix" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" parameterValue="0"/>
-          </component>
-          <component componentGuid="1844629b-90ad-493c-a121-abb2a966b987" id="rackInput" powered="true">
-            <parameter index="0" parameterValue="1"/>
-            <parameter index="1" parameterValue="0"/>
-          </component>
-          <component componentGuid="63f805d8-b661-4eb2-8ad2-d4776c52ee1e" id="rackOutput" powered="true">
-            <parameter index="0" parameterValue="1"/>
-            <parameter index="1" parameterValue="0"/>
-          </component>
-          <slot powered="true" slotIndex="0">
-            <component componentGuid="96eb515a-50e3-44e5-81bf-a63ee7646a53" componentID="f14fee7d-fe5f-4202-b790-f53209e56411" editorHeight="286" editorLeft="736" editorTop="409" editorWidth="448" name="Amplify" presetName="+10dB Boost">
-              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"","type":0}],"out":[{"layout":[100,101],"name":"","type":0}]}]]></busConfig>
-              <parameter index="0" name="Channel Count" parameterValue="0.0625"/>
-              <parameter index="1" name="Link Sliders" parameterValue="1"/>
-              <parameter index="2" name="Left" parameterValue="0.736110985279083251953125"/>
-              <parameter index="3" name="Right" parameterValue="0.736110985279083251953125"/>
-              <parameter index="4" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="5" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="6" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="7" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="8" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="9" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="10" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="11" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="12" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="13" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="14" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="15" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="16" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="17" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="18" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="19" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="20" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="21" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="22" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="23" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="24" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="25" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="26" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="27" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="28" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="29" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="30" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="31" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="32" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="33" name="" parameterValue="0.666666686534881591796875"/>
-              <parameter index="34" name="Link Keyframes" parameterValue="1"/>
-            </component>
-          </slot>
-        </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1097060" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="The_high_tech_industry 48000 1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="466063" startPoint="630997" zOrder="0">
-          <component componentGuid="983f1c2f-2350-481d-9a61-620c3e6b3e38" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1097061" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="The_high_tech_industry 48000 1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="466064" startPoint="630997" zOrder="0">
+          <component componentGuid="30315111-d4de-429d-8ac9-bfe1cd780b10" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="f07447bb-4645-4fbb-9216-78a0cab37e0c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6e22ea6b-4679-418a-acd3-5f68d6e2d04f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="c870d738-6aea-4e95-8227-d0c63b7eefb5" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+          <component componentGuid="aa6764ca-3985-4564-a770-349bc2632533" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="466063" shape="19" startPoint="466063" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="466064" shape="19" startPoint="466064" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -779,9 +725,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="630997" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="630997"/>
-      <viewState horizontalViewDuration="762666" horizontalViewStart="249663" trackControlsWidth="286" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="0" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="0"/>
+      <viewState horizontalViewDuration="1441449" horizontalViewStart="0" trackControlsWidth="286" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
@@ -796,9 +742,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 24.2 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2024-02-27T13:46:53+01:00</xmp:CreateDate>
-         <xmp:MetadataDate>2024-03-05T17:08:09+01:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2024-03-05T17:08:09+01:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:be19f20b-b805-4d04-adff-1f85f3078690</xmpMM:InstanceID>
+         <xmp:MetadataDate>2024-03-05T21:58:06+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-03-05T21:58:06+01:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:35971f3d-7c96-44dd-a7af-e847773fe962</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:527b7f79-2b7e-4ea9-8ed8-589b0e07b5fe</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:527b7f79-2b7e-4ea9-8ed8-589b0e07b5fe</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -1216,6 +1162,48 @@
                   <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1a0bb65b-a38b-453c-99ea-c38c06612add</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:38:41+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b29274d4-9b70-48d3-bb19-c73d9fc90d56</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:38:41+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1367dc2d-d89e-44a5-a109-3b5588544916</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:52:25+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:d135d509-608d-4655-9600-1c24531634b3</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:52:25+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:2665d26d-22ad-4970-9ed5-aa34ea666529</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:58:06+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:35971f3d-7c96-44dd-a7af-e847773fe962</stEvt:instanceID>
+                  <stEvt:when>2024-03-05T21:58:06+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/xml</dc:format>
@@ -1234,11 +1222,11 @@
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:958632d0-1282-421e-bf1c-978c65876c60</xmpDM:value>
+                                    <xmpDM:value>xmp:id:e3e12f3e-aab7-4e25-86eb-93eaeccc1a6a</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:958632d0-1282-421e-bf1c-978c65876c60</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:e3e12f3e-aab7-4e25-86eb-93eaeccc1a6a</xmpDM:guid>
                         </rdf:li>
                         <rdf:li rdf:parseType="Resource">
                            <xmpDM:startTime>573658</xmpDM:startTime>
@@ -1247,11 +1235,11 @@
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:7754f2d1-b278-42ca-bba0-a8218c956cf4</xmpDM:value>
+                                    <xmpDM:value>xmp:id:b9cb0319-d248-46b6-8183-926fd8a840a2</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:7754f2d1-b278-42ca-bba0-a8218c956cf4</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:b9cb0319-d248-46b6-8183-926fd8a840a2</xmpDM:guid>
                         </rdf:li>
                      </rdf:Seq>
                   </xmpDM:markers>
