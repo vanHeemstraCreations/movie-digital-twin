@@ -1,5 +1,10 @@
 # SCENE 09: INT. SHARED OFFICE SPACE - END OF DAY
 
+We folow these tutorials for this scene:
+
+- [Cloth Tearing | After Effects Quick Product Tutorial](https://www.youtube.com/watch?v=6dZTHwzCbo4)
+- [Apple Vision Pro - 3D Product Animation in After Effects Tutorials](https://www.youtube.com/watch?v=N7loqviXkFo)
+
 We make use of this stock footage for this scene:
 
 - [...](...) **NOTE**: ...
