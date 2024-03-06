@@ -11,6 +11,5 @@ We make use of these stock images for this scene:
 
 We make use of these stock sounds for this scene:
 
-- [Favorite Orchestral Moments for Big Drums (Timpani and Bass Drum) - Part One](https://www.youtube.com/watch?v=wriQCc00MRc)
-- [Favorite Orchestral Moments for Big Drums (Timpani and Bass Drum) - Part Two](https://www.youtube.com/watch?v=JY4ZCxgXaFg)
+- [[ Timpani ] Richard Strauss , Zarathustra | Murat Cem Orhan | Bilkent Symphony Orchestra](https://www.youtube.com/watch?v=4ePVC0Tk5JQ)
 - [Scratching of a vinyl record]() *STILL TO SOURCE*
