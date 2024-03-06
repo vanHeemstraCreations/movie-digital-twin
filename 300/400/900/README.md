@@ -11,5 +11,5 @@ We make use of these stock images for this scene:
 
 We make use of these stock sounds for this scene:
 
-- [[ Timpani ] Richard Strauss , Zarathustra | Murat Cem Orhan | Bilkent Symphony Orchestra](https://www.youtube.com/watch?v=4ePVC0Tk5JQ)
+- [Also Sprach Zarathustra, Op. 30 - Strauss](https://www.youtube.com/watch?v=dfe8tCcHnKY)
 - [Scratching of a vinyl record]() *STILL TO SOURCE*
