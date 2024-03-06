@@ -4,7 +4,7 @@ We follow these tutorials for this movie:
 
 - [How to use Numbers & Timecode Text Effects in Adobe After Effects CC (Explained Ep. 18)](https://www.youtube.com/watch?v=ii-SAyio1_w)
 - [Adobe Audition 2024 - Tutorial for beginners | Pro Audition in under 7 Minutes!](https://www.youtube.com/watch?v=sFLe87ix2_s)
-- [How to download YouTube videos on a Mac](https://www.macworld.com/article/673601/how-to-download-youtube-videos-on-a-mac.html) **NOTE**: We use [Downie](https://software.charliemonroe.net/downie/) to download media from the Internet.
+- [How to download YouTube videos on a Mac](https://www.macworld.com/article/673601/how-to-download-youtube-videos-on-a-mac.html) **NOTE**: We use [Downie](https://software.charliemonroe.net/downie/) to download media from the Internet. If you are logged into e.g. YouTube, you can actually download any clip with the download button in YouTube.
 
 ## SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
