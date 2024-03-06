@@ -7,7 +7,7 @@ We folow these tutorials for this scene:
 
 We make use of this stock footage for this scene:
 
-- [...](...) **NOTE**: ...
+- [Gold Sheet Reveal](https://www.mediafire.com/file/79essghzzxjsh5t/01.mp4) **NOTE**: ...
 
 We make use of these stock images for this scene:
 
