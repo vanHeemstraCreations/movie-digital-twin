@@ -6,7 +6,6 @@ We follow these tutorials for this scene:
 - [*Solution* 3D Camera Tracker: Layer Size Must Match Composition And Use Default Transform Values](https://www.youtube.com/watch?v=oQtQ6CUV-Lg)
 - [Fix Bad Render Frames Using Interpolation // After Effects Quicktip](https://www.youtube.com/watch?v=UyYFAH9V1TI)
 - [Animate graphs in After Effects like a pro](https://www.youtube.com/watch?v=UI6T0ISGlJE)
-- [After Effects Plugin Squash & Stretch Easy Animation Tutorial](https://aescripts.com/learn/after-effects-plugin-squash-and-stretch-easy-animation-tutorial/)
 - [Simple Egg In After Effects Tutorial](https://www.youtube.com/watch?v=b4l8Jbfk1FY)
 - [Create a realistic Iris in After Effects](https://www.youtube.com/watch?v=60nee-cy3ng)
 - [After Effects Free Eye Rigs](https://benmarriott.gumroad.com/l/Swkyf?layout=profile&recommended_by=library)
