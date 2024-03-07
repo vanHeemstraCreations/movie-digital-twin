@@ -7,6 +7,12 @@ We follow these tutorials for this movie:
 - [Adobe Audition 2024 - Tutorial for beginners | Pro Audition in under 7 Minutes!](https://www.youtube.com/watch?v=sFLe87ix2_s)
 - [How to download YouTube videos on a Mac](https://www.macworld.com/article/673601/how-to-download-youtube-videos-on-a-mac.html) **NOTE**: We use [Downie](https://software.charliemonroe.net/downie/) to download media from the Internet. If you are logged into e.g. YouTube, you can actually download any clip with the download button in YouTube.
 
+We make use of these effects and plugins for this movie:
+
+- [Squash and Stretch Pro](https://aescripts.com/squash-and-stretch-pro/)
+- [Squash and Stretch - Cartoon Bundle](https://aescripts.com/cartoon-bundle-for-squash-stretch-pro/)
+- [Squash and Stretch - Glitch Bundle](https://aescripts.com/glitch-bundle-for-squash-stretch-pro/)
+
 ## SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
 See [README.md](./100/README.md)
