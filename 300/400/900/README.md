@@ -5,6 +5,7 @@ We folow these tutorials for this scene:
 - [Cloth Tearing | After Effects Quick Product Tutorial](https://www.youtube.com/watch?v=6dZTHwzCbo4)
 - [Apple Vision Pro - 3D Product Animation in After Effects Tutorials](https://www.youtube.com/watch?v=N7loqviXkFo)
 - [Create A Camera Pass-Through Effect in After Effects | RocketStock.com](https://www.youtube.com/watch?v=uAtb0nesRPs)
+- [After Effects Digital Logo Wiper Tutorial (Include project files)](https://www.youtube.com/watch?v=m3xNjwfnFNg)
 
 We make use of this stock footage for this scene:
 
