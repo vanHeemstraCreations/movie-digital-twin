@@ -15,6 +15,11 @@ We make use of these effects and plugins for this movie:
 - [Squash and Stretch - Glitch Bundle](https://aescripts.com/glitch-bundle-for-squash-stretch-pro/)
 - [Auto Lip-Sync](https://aescripts.com/auto-lip-sync/)
 
+We make use of these stock images for this movie:
+
+- [Cartoon character with shining white teeth smiles](https://www.cleanpng.com/png-lets-laugh-day-cartoon-character-toothbrush-smilin-7991180/) **NOTE**: Teeth of Character B
+- [Open, smiling mouth with full teeth](https://www.cleanpng.com/png-lets-laugh-day-smile-teeth-mouth-lips-open-smiling-7991275/) **NOTE**: Teeth of Character A
+
 ## SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
 See [README.md](./100/README.md)
