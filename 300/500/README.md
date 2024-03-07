@@ -12,6 +12,7 @@ We make use of these effects and plugins for this movie:
 - [Squash and Stretch Pro](https://aescripts.com/squash-and-stretch-pro/)
 - [Squash and Stretch - Cartoon Bundle](https://aescripts.com/cartoon-bundle-for-squash-stretch-pro/)
 - [Squash and Stretch - Glitch Bundle](https://aescripts.com/glitch-bundle-for-squash-stretch-pro/)
+- [Auto Lip-Sync](https://aescripts.com/auto-lip-sync/)
 
 ## SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
