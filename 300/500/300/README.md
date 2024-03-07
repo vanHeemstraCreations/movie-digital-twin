@@ -1,0 +1,5 @@
+# SCENE 03: INT. SHARED OFFICE SPACE - DAY
+
+We follow these tutorials for this scene:
+
+- [After Effects Free Plugin Crate's Godrays Tutorial (Include project files)](https://www.youtube.com/watch?v=YQPPykQmRak)
