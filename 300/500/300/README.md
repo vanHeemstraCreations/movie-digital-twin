@@ -3,3 +3,8 @@
 We follow these tutorials for this scene:
 
 - [After Effects Free Plugin Crate's Godrays Tutorial (Include project files)](https://www.youtube.com/watch?v=YQPPykQmRak)
+
+We use these plugins / scripts / extensions for this scene:
+
+- [GodRays](https://news.productioncrate.com/download-free-godrays-plugin-for-after-effects/)
+- [Deep Glow](https://aescripts.com/deep-glow/)
