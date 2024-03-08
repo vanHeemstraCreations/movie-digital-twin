@@ -11,12 +11,19 @@ We follow these tutorials for this scene:
 - [After Effects Free Eye Rigs](https://benmarriott.gumroad.com/l/Swkyf?layout=profile&recommended_by=library)
 - [After Effects Quick Tip: Set Matte Effect](https://www.youtube.com/watch?v=BbH2STGZ-60)
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen_animations)
-- [Broken Mirror Effect | After Effects Tutorial](https://www.youtube.com/watch?v=sb-t3plEaf8)
+- ~~[Broken Mirror Effect | After Effects Tutorial](https://www.youtube.com/watch?v=sb-t3plEaf8)~~
+- [After Effects Shatter broken Easy Tutorial](https://www.youtube.com/watch?v=V5n6neY5JDI)
+- [After Effects Magic Fire Burn Easy Tutorial l 불타오르는 효과 (Include project files)](https://www.youtube.com/watch?v=Q94Yh3D0saI)
+- ~~[After Effects Smoke Tutorial l 연기 이펙트 (Include project files)](https://www.youtube.com/watch?v=e9rRZze4Gds)~~
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 - ~~[Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)~~
 - [Making a 3D iphone mockup with After Effects and Element 3D (tutorials)](https://www.youtube.com/watch?v=IwCjLaB8AmE)
 - [3d iphone tutorial & free model || after effects tutorial](https://www.youtube.com/watch?v=ClHpCPjSOH8)
 - [After Effects Bubble Foam Tutorial](https://www.youtube.com/watch?v=d3a5OquQ4kU)
+- [Create a Spicy Face look in Premiere Pro | Cinecom.net](https://www.youtube.com/watch?v=CPcCW59Gm3w)
+- [wiggle + s_shake panning || after effects tutorial](https://www.youtube.com/watch?v=LySeeAN5NX4)
+- [Tutorial: Creating Realistic Camera Shake in Adobe After Effects](https://www.youtube.com/watch?v=jgw-aIsWT5Y)
+- [Incredible Hulk Transformation Effect in Adobe Premiere Pro CC](https://www.youtube.com/watch?v=npXgRhl-_E0)
 
 We use these plugins / scripts / extensions for this scene:
 
