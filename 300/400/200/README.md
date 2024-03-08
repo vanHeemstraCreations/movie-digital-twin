@@ -3,6 +3,7 @@
 We make use of this stock footage for this scene:
 
 - [A Woman Working](https://www.pexels.com/video/a-woman-working-5717280/) **WARNING**: Footage contains dropped frames!
+- [Smoke Animation](https://www.vecteezy.com/video/8260044-smoke-animation-design-from-right-screen)
 
 We make use of these stock images for this scene:
 

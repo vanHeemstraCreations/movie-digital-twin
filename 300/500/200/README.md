@@ -20,6 +20,7 @@ We follow these tutorials for this scene:
 - [Making a 3D iphone mockup with After Effects and Element 3D (tutorials)](https://www.youtube.com/watch?v=IwCjLaB8AmE)
 - [3d iphone tutorial & free model || after effects tutorial](https://www.youtube.com/watch?v=ClHpCPjSOH8)
 - [After Effects Bubble Foam Tutorial](https://www.youtube.com/watch?v=d3a5OquQ4kU)
+- [Create a Spicy Face look in Premiere Pro | Cinecom.net](https://www.youtube.com/watch?v=CPcCW59Gm3w)
 
 We use these plugins / scripts / extensions for this scene:
 
