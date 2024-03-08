@@ -22,6 +22,7 @@ We follow these tutorials for this scene:
 - [After Effects Bubble Foam Tutorial](https://www.youtube.com/watch?v=d3a5OquQ4kU)
 - [Create a Spicy Face look in Premiere Pro | Cinecom.net](https://www.youtube.com/watch?v=CPcCW59Gm3w)
 - [wiggle + s_shake panning || after effects tutorial](https://www.youtube.com/watch?v=LySeeAN5NX4)
+- [Incredible Hulk Transformation Effect in Adobe Premiere Pro CC](https://www.youtube.com/watch?v=npXgRhl-_E0)
 
 We use these plugins / scripts / extensions for this scene:
 
