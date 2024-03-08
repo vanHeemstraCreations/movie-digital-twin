@@ -14,6 +14,7 @@ We make use of this stock footage for this scene:
 We make use of these stock images for this scene:
 
 - [Close-up of modern office buildings](https://www.freepik.com/free-photo/close-up-modern-office-buildings_1119484.htm#fromView=search&page=10&position=29&uuid=07c5a604-e119-4fda-83ca-b1bde598ebd6)
+- [A luxurious gold cloth draped over a simple wooden bench. Ideal for home decor or interior design concepts](https://stock.adobe.com/search?k=%22gold+cloth%22&asset_id=746663893)
 
 We make use of these stock sounds for this scene:
 
