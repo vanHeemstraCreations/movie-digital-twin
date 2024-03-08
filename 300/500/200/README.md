@@ -13,6 +13,7 @@ We follow these tutorials for this scene:
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen_animations)
 - ~~[Broken Mirror Effect | After Effects Tutorial](https://www.youtube.com/watch?v=sb-t3plEaf8)~~
 - [After Effects Shatter broken Easy Tutorial](https://www.youtube.com/watch?v=V5n6neY5JDI)
+- [After Effects Magic Fire Burn Easy Tutorial l 불타오르는 효과 (Include project files)](https://www.youtube.com/watch?v=Q94Yh3D0saI)
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 - ~~[Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)~~
 - [Making a 3D iphone mockup with After Effects and Element 3D (tutorials)](https://www.youtube.com/watch?v=IwCjLaB8AmE)
