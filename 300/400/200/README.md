@@ -18,5 +18,6 @@ We make use of these stock sounds for this scene:
 - [Phone Dialling](https://freesound.org/people/JSilverSound/sounds/612101/)
 - [Lion Roar](https://freesound.org/people/qubodup/sounds/212764/)
 - [Cat Angry Hissing 01.wav](https://freesound.org/people/promete/sounds/67444/)
+- [Raging madman zombie beast #3e (reverse reverb).wav](https://freesound.org/people/Timbre/sounds/86247/)
 
 - ~~[Small Office - Computer Keyboard, Typing](https://artlist.io/sfx/track/small-office---computer-keyboard-typing/68413)~~
