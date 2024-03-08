@@ -11,7 +11,8 @@ We follow these tutorials for this scene:
 - [After Effects Free Eye Rigs](https://benmarriott.gumroad.com/l/Swkyf?layout=profile&recommended_by=library)
 - [After Effects Quick Tip: Set Matte Effect](https://www.youtube.com/watch?v=BbH2STGZ-60)
 - [134 - Screen Animations](https://videocopilot.net/tutorials/screen_animations)
-- [Broken Mirror Effect | After Effects Tutorial](https://www.youtube.com/watch?v=sb-t3plEaf8)
+- ~~[Broken Mirror Effect | After Effects Tutorial](https://www.youtube.com/watch?v=sb-t3plEaf8)~~
+- [After Effects Shatter broken Easy Tutorial](https://www.youtube.com/watch?v=V5n6neY5JDI)
 - [125 - Grenade Throw](https://videocopilit.net/tutorials/grenade_throw)
 - ~~[Make Anything Sticker Motion Graphics in After Effects](https://www.youtube.com/watch?v=kfCbmJQoIBg)~~
 - [Making a 3D iphone mockup with After Effects and Element 3D (tutorials)](https://www.youtube.com/watch?v=IwCjLaB8AmE)
