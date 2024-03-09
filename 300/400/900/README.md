@@ -7,6 +7,10 @@ We folow these tutorials for this scene:
 - [Create A Camera Pass-Through Effect in After Effects | RocketStock.com](https://www.youtube.com/watch?v=uAtb0nesRPs)
 - [After Effects Digital Logo Wiper Tutorial (Include project files)](https://www.youtube.com/watch?v=m3xNjwfnFNg)
 
+We make use of these templates / presets for this scene:
+
+- [Blow It Up Type](https://motionarray.com/after-effects-templates/blow-it-up-type-1476825/?q=Blow&search_header=1)
+
 We make use of this stock footage for this scene:
 
 - [Gold Sheet Reveal](https://www.mediafire.com/file/79essghzzxjsh5t/01.mp4) **NOTE**: ...
