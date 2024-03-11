@@ -24,6 +24,7 @@ We follow these tutorials for this scene:
 - [wiggle + s_shake panning || after effects tutorial](https://www.youtube.com/watch?v=LySeeAN5NX4)
 - [Tutorial: Creating Realistic Camera Shake in Adobe After Effects](https://www.youtube.com/watch?v=jgw-aIsWT5Y)
 - [Incredible Hulk Transformation Effect in Adobe Premiere Pro CC](https://www.youtube.com/watch?v=npXgRhl-_E0)
+- [After Effects Tutorial: Create A Video From A 360 Photo (No Third Party Plugins Required)](https://www.youtube.com/watch?v=tdA9SJgfz_U)
 
 We use these plugins / scripts / extensions for this scene:
 
