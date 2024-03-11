@@ -31,6 +31,7 @@ We follow these tutorials for this scene:
 - [After Effects: Recessed Inner Shadow Tutorial](https://www.youtube.com/watch?v=ly3wNQdKGWI)
 - ~~[After Effects Tutorial : How to Remove Black Background from Video or Footage](https://www.youtube.com/watch?v=KndC3ABysYg)~~
 - [After Effects: Remove Black Background (Unmult)](https://www.youtube.com/watch?v=kEt05ns8Wzk)
+- [After Effects Tutorial - Brushed metal effect](https://www.youtube.com/watch?v=Ke42TDJoR-M)
 
 We use these plugins / scripts / extensions for this scene:
 
