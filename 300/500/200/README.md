@@ -26,6 +26,7 @@ We follow these tutorials for this scene:
 - [Incredible Hulk Transformation Effect in Adobe Premiere Pro CC](https://www.youtube.com/watch?v=npXgRhl-_E0)
 - ~~ [After Effects Tutorial: Create A Video From A 360 Photo (No Third Party Plugins Required)](https://www.youtube.com/watch?v=tdA9SJgfz_U)~~
 - [Where are the SkyBox 360 Tools in After Effects and Premiere Pro CC 2018?](https://www.youtube.com/watch?v=RB5XUlqO_cA)
+- [3D Camera Null After Effects, Orbit Null and Camera Animation](https://www.youtube.com/watch?v=ModmLpYquAE)
 
 We use these plugins / scripts / extensions for this scene:
 
