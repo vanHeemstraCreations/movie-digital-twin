@@ -29,6 +29,7 @@ We follow these tutorials for this scene:
 - [3D Camera Null After Effects, Orbit Null and Camera Animation](https://www.youtube.com/watch?v=ModmLpYquAE)
 - [How to Lock Camera Focus to layer | Adobe After Effects tutorial](https://www.youtube.com/watch?v=djMWJffyYj8)
 - [After Effects: Recessed Inner Shadow Tutorial](https://www.youtube.com/watch?v=ly3wNQdKGWI)
+- [After Effects Tutorial : How to Remove Black Background from Video or Footage](https://www.youtube.com/watch?v=KndC3ABysYg)
 
 We use these plugins / scripts / extensions for this scene:
 
