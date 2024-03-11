@@ -28,6 +28,7 @@ We follow these tutorials for this scene:
 - [Where are the SkyBox 360 Tools in After Effects and Premiere Pro CC 2018?](https://www.youtube.com/watch?v=RB5XUlqO_cA)
 - [3D Camera Null After Effects, Orbit Null and Camera Animation](https://www.youtube.com/watch?v=ModmLpYquAE)
 - [How to Lock Camera Focus to layer | Adobe After Effects tutorial](https://www.youtube.com/watch?v=djMWJffyYj8)
+- [After Effects: Recessed Inner Shadow Tutorial](https://www.youtube.com/watch?v=ly3wNQdKGWI)
 
 We use these plugins / scripts / extensions for this scene:
 
