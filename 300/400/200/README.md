@@ -17,8 +17,8 @@ We make use of these stock images for this scene:
 We make use of these stock sounds for this scene:
 
 - [Phone Dialling](https://freesound.org/people/JSilverSound/sounds/612101/)
-- [Lion Roar](https://freesound.org/people/qubodup/sounds/212764/)
-- [Cat Angry Hissing 01.wav](https://freesound.org/people/promete/sounds/67444/)
+- ~~[Lion Roar](https://freesound.org/people/qubodup/sounds/212764/)~~
+- ~~[Cat Angry Hissing 01.wav](https://freesound.org/people/promete/sounds/67444/)~~
 - [16-bit remix of 86241__timbre__raging-madman-zombie-beast.flac](https://freesound.org/people/Timbre/sounds/202175/)
 - [Dramatic Time Freeze](https://motionarray.com/sound-effects/dramatic-time-freeze-1122904/)
 - ~~[Small Office - Computer Keyboard, Typing](https://artlist.io/sfx/track/small-office---computer-keyboard-typing/68413)~~
