@@ -24,6 +24,14 @@ We follow these tutorials for this scene:
 - [wiggle + s_shake panning || after effects tutorial](https://www.youtube.com/watch?v=LySeeAN5NX4)
 - [Tutorial: Creating Realistic Camera Shake in Adobe After Effects](https://www.youtube.com/watch?v=jgw-aIsWT5Y)
 - [Incredible Hulk Transformation Effect in Adobe Premiere Pro CC](https://www.youtube.com/watch?v=npXgRhl-_E0)
+- ~~ [After Effects Tutorial: Create A Video From A 360 Photo (No Third Party Plugins Required)](https://www.youtube.com/watch?v=tdA9SJgfz_U)~~
+- [Where are the SkyBox 360 Tools in After Effects and Premiere Pro CC 2018?](https://www.youtube.com/watch?v=RB5XUlqO_cA)
+- [3D Camera Null After Effects, Orbit Null and Camera Animation](https://www.youtube.com/watch?v=ModmLpYquAE)
+- [How to Lock Camera Focus to layer | Adobe After Effects tutorial](https://www.youtube.com/watch?v=djMWJffyYj8)
+- [After Effects: Recessed Inner Shadow Tutorial](https://www.youtube.com/watch?v=ly3wNQdKGWI)
+- ~~[After Effects Tutorial : How to Remove Black Background from Video or Footage](https://www.youtube.com/watch?v=KndC3ABysYg)~~
+- [After Effects: Remove Black Background (Unmult)](https://www.youtube.com/watch?v=kEt05ns8Wzk)
+- [After Effects Tutorial - Brushed metal effect](https://www.youtube.com/watch?v=Ke42TDJoR-M)
 
 We use these plugins / scripts / extensions for this scene:
 
