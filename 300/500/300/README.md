@@ -3,7 +3,7 @@
 We follow these tutorials for this scene:
 
 - [After Effects Free Plugin Crate's Godrays Tutorial (Include project files)](https://www.youtube.com/watch?v=YQPPykQmRak)
-- [Backside of Layers Invisible in After Effects #Shorts](https://www.youtube.com/watch?v=DjPMDLpE6Jc)
+- ~~[Backside of Layers Invisible in After Effects #Shorts](https://www.youtube.com/watch?v=DjPMDLpE6Jc)~~
 
 We use these plugins / scripts / extensions for this scene:
 
