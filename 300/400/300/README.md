@@ -1,5 +1,9 @@
 # SCENE 03: INT. SHARED OFFICE SPACE - DAY
 
+We make use of this stock footage for this scene:
+
+- [Fire Corner Loop](https://www.vecteezy.com/video/3663133-fire-corner-loop-effect)
+
 We make use of these stock images for this scene:
 
 - [Door]() **NOTE**: Part of Godray demo project
