@@ -7,6 +7,7 @@ We follow these tutorials for this scene:
 - [Cross Fire Particle FX](https://www.videocopilot.net/tutorials/crossfire_particle_fx/)
 - [After Effects Tutorial - Animate Falling Books](https://www.youtube.com/watch?v=wsMhvtSOzYY)
 - [After Effects Magic Fire Burn Easy Tutorial l 불타오르는 효과 (Include project files)](https://www.youtube.com/watch?v=Q94Yh3D0saI)
+- [Eye Blinking Transition Effect - Beginner AE Tutorial](https://www.youtube.com/watch?v=RbIrMtIt370)
 
 We use these plugins / scripts / extensions for this scene:
 
