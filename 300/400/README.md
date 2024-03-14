@@ -8,9 +8,13 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-
 ... more
 
+## SCENE 07: EXT. LUNAPARK - DAY
+
+See [README.md](./700/README.md)
+
+... more
 
 ## SCENE 09: INT. SHARED OFFICE SPACE - DAY
 
