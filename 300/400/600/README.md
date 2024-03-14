@@ -2,7 +2,7 @@
 
 We make use of this stock footage for this scene:
 
-- [Dorney Park's new roller coaster for 2024: Iron Menace | POV front seat animation](https://www.youtube.com/watch?v=jgm58cbu0kw)
+- [Dorney Park's new roller coaster for 2024: Iron Menace | POV front seat animation](https://www.youtube.com/watch?v=BQL-CP8d1-o)
 
 We make use of these stock images for this scene:
 
