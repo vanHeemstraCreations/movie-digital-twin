@@ -6,6 +6,8 @@ We follow the advice provide by Aharon Rabinowitz of Creative Cow in this tutori
 
 See also [Distributed rendering with Flamenco v3](https://www.youtube.com/watch?v=shIDWVSTGe4).
 
+See also [How to create an After Effects render bot](https://www.youtube.com/watch?v=-YX9cKUho7o).
+
 However, we us [Render Boss](https://www.kineticportal.com/renderboss/)
 
 **TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
