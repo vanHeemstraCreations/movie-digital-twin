@@ -1,10 +1,12 @@
 # 200 - Setup
 
-To setup Render Boss on a Mac with After Effects, see https://www.kineticportal.com/renderbossmac/
+~~To setup Render Boss on a Mac with After Effects, see https://www.kineticportal.com/renderbossmac/~~
 
-And [After Effects - How to render on the cloud or remotely on your own render farm (Tutorial)](https://www.youtube.com/watch?v=tA_oHbvAnYs)
+~~And [After Effects - How to render on the cloud or remotely on your own render farm (Tutorial)](https://www.youtube.com/watch?v=tA_oHbvAnYs)~~
 
 ## Requirements
+
+== SKIP THIS PART, IN FAVOR OF NEXRENDER ==
 
 - A Dropbox (preferred) or Google Drive account for storing shared files.
 - An account with a online service provider (e.g. Paperspace), where the rendering will be executed. **NOTE**: The online service provider (here: Paperspace) needs to have access to the stored files (here: Dropbox).
@@ -17,3 +19,13 @@ Run the free downloadable Puget Systems benchmark test on our current computer (
 Suggested computers for Adobe After Effects (e.g. as render stations):
 
 - https://www.pugetsystems.com/solutions/video-editing-workstations/adobe-after-effects/
+
+== END OF SKIPPED ==
+
+To start with NexRender:
+
+- Visit our [GitHub Releases](https://github.com/inlife/nexrender/releases) page
+- Choose a binary for your platform (Windows or macOS).
+- Prepare the template and all required assets.
+- Follow the instructions from our [documentation](https://github.com/inlife/nexrender/).
+- Get your first video out in no time!
