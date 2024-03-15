@@ -16,7 +16,7 @@ Nexrender is a simple, small, carefully designed application with the main goal 
 
 ~~However, we us [Render Boss](https://www.kineticportal.com/renderboss/)~~. Nope, we'll use **NexRender** (or the commercial version, ```plainlyvidoes.com``` which uses NexRender in the background).
 
-**TO DO**: Let us also explore the commercial version, using PlainlyVidoes. See [How to create an After Effects render bot](https://www.youtube.com/watch?v=-YX9cKUho7o). The benefit is that the vidoes are rendered in the Cloud. However, even with NexRender we could use a Paperspace account to also allow for the vidoes to be rendered in the Cloud, without paying for the PlainlyVideos service : )
+**TO DO**: Let us also explore the commercial version, using PlainlyVidoes. See [How to create an After Effects render bot](https://www.youtube.com/watch?v=-YX9cKUho7o). The benefit is that the vidoes are rendered in the Cloud. However, even with NexRender we could use a Paperspace account to also allow for the vidoes to be rendered in the Cloud, without paying for the PlainlyVideos service : ) We could 'trigger' NexRender to start the render when the master branch of our GitHub repository (here: https://github.com/vanHeemstraCreations/movie-digital-twin) gets updated (after we commit/merge new changes to this repository's main branch).
 
 **TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
 
