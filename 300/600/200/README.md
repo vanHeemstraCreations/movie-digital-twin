@@ -9,3 +9,5 @@ And [After Effects - How to render on the cloud or remotely on your own render f
 - A Dropbox (preferred) or Google Drive account for storing shared files.
 - An account with a online service provider (e.g. Paperspace)
 
+- Optionally a secondary/third/fourth computer (Windows or Mac) for rendering. Puget Systems have done a lot of research on different systems for this use. You can see their findings on the link below. They have premade systems around your budget, depending on how you configure it. But you can also see what they use and make your own.
+ https://www.pugetsystems.com/recommended/Recommended-Systems-for-Adobe-After-Effects-144/Hardware-Recommendations
