@@ -4,5 +4,5 @@ See also [Creating automated music video with nexrender](https://www.youtube.com
 
 See the documentation of NexRender at https://github.com/inlife/nexrender/ .
 
-
+**NOTE**: We can store our Adobe After Effects project file (*.aep) in GitHub (here: https://github.com/vanHeemstraCreations/movie-digital-twin/movie-digital-twin.aep) and use its URL with NexRender to do the rendering. Automated version control!!
 
