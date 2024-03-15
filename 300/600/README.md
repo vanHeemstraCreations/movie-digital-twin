@@ -14,7 +14,7 @@ NexRender: Unleash the power of data-driven creativity, streamline your Adobe Af
 
 Nexrender is a simple, small, carefully designed application with the main goal of rendering automation for Adobe After Effects based rendering workflows. And its completely **free** and **open-source**.
 
-However, we us [Render Boss](https://www.kineticportal.com/renderboss/)
+~~However, we us [Render Boss](https://www.kineticportal.com/renderboss/)~~. Nope, we'll use **NexRender** (or the commercial version, ```plainlyvidoes.com``` which uses NexRender in the background).
 
 **TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
 
