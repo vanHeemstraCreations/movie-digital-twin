@@ -10,6 +10,20 @@ See also [Render Boss](https://www.kineticportal.com/renderboss/)
 
 **TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
 
+## Render Boss Features
+
+- **Single-Click Multi-Machine videos**. Render Boss can automatically split your comps into image sequences to be rendered by multiple machines, then combine them into a single video file, including sound and everything.
+- **Smart Multi-Core renders**. Get the most out of multi-core CPUs. Render Boss monitors the CPU, Memory and GPU on each machine and dynamically adds or removes parallel render instances. This results in renders that use all the available resources without choking slower machines.
+- **Easy to setup multiple machines**. Just point them to a shared network folder and that’s it. No fiddling with network settings, no coding, no command lines.
+- **Seamless integration with After Effects**.
+- **Clear ON/OFF button** gives you complete control on when your computer is available to render.
+- **Control all the machines from a single computer**. Turn Render Boss On or Off, stop renders, etc. All without getting up from your seat.
+- **Notifications**. Get notified if your renders finished correctly, or get warned if there were errors.
+- **Output Analysis**: In addition to the After Effects warnings, AE Render Boss checks the output files to make sure they rendered well.
+- **Detailed Reports**. See reports of all the render jobs, in aggregate or per machine.
+- **Dynamic Licensing**. Each license gives you a certain number of machines to render at the same time. Enter the key in one machine and all the other machines in the Network can use it. And if you turn off Render Boss in one computer, it automatically frees up another machine to render. All in real-time.
+- **Cross-Platform**. Now available for MacOS (compatible with Apple Silicon / M1 machines). The best solution for mixed OS families and studios.
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
