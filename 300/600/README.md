@@ -6,6 +6,8 @@ We follow the advice provide by Aharon Rabinowitz of Creative Cow in this tutori
 
 See also [Distributed rendering with Flamenco v3](https://www.youtube.com/watch?v=shIDWVSTGe4).
 
+See also [Render Boss](https://www.kineticportal.com/renderboss/)
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
