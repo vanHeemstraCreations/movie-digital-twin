@@ -8,6 +8,8 @@ See also [Distributed rendering with Flamenco v3](https://www.youtube.com/watch?
 
 See also [Render Boss](https://www.kineticportal.com/renderboss/)
 
+**TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
