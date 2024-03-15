@@ -10,6 +10,8 @@ See also [How to create an After Effects render bot](https://www.youtube.com/wat
 
 See also [NexRender - Open Source](https://www.nexrender.com/). **THIS SOUNDS AWESOME, PLEASE INVESTIGATE!**
 
+NexRender: Unleash the power of data-driven creativity, streamline your Adobe After Effects rendering workflows, experience the freedom to create, automate, and achieve remarkable results in your video production processes while our systems handle the heavy lifting. At GitHub: https://github.com/inlife/nexrender
+
 However, we us [Render Boss](https://www.kineticportal.com/renderboss/)
 
 **TIP**: Render Boss brings to your fingertips the ability to render multiple frames in parallel. Whether that’s in the same computer (multiprocessing) or in many computers distributed across a network. It just takes a couple of clicks. We'll explore this option.
