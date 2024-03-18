@@ -25,3 +25,7 @@ See [README.md](./500/README.md)
 ## 600 - 2 Tips About How to Use These Plot Types
 
 See [README.md](./600/README.md)
+
+## 700 - Story Grid
+
+See [README.md](./700/README.md)
