@@ -29,3 +29,12 @@ To start with NexRender:
 - Prepare the template and all required assets.
 - Follow the instructions from our [documentation](https://github.com/inlife/nexrender/).
 - Get your first video out in no time!
+
+Hardware:
+
+- Apple Mac Mini (2014)
+- OWS Thunderblade, see [Review: OWC ThunderBlade - the fastest external SSD setup I've tested!](https://www.youtube.com/watch?v=gLGd9_0rX2A)
+
+Software:
+
+- SoftRAID ()
