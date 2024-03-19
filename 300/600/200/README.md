@@ -35,6 +35,12 @@ Hardware:
 - Apple Mac Mini (2014)
 - OWS Thunderblade, see [Review: OWC ThunderBlade - the fastest external SSD setup I've tested!](https://www.youtube.com/watch?v=gLGd9_0rX2A)
 
+Disk Partitioning:
+
+![Screenshot 2024-03-19 at 12 54 24](https://github.com/vanHeemstraCreations/movie-digital-twin/assets/1499433/2f5b2782-4a96-418e-b55c-05198ba5267a)
+
+SoftRAID Video Rendering Volume
+
 Software:
 
 - SoftRAID ()
