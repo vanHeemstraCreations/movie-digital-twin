@@ -41,6 +41,10 @@ Disk Partitioning:
 
 SoftRAID Video Rendering Volume
 
+![Screenshot 2024-03-19 at 13 12 07](https://github.com/vanHeemstraCreations/movie-digital-twin/assets/1499433/d9b5ddde-3039-4bec-9888-24027fb01d5d)
+
+Thunderbolt Bus
+
 Software:
 
 - SoftRAID ()
