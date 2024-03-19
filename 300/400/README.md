@@ -10,6 +10,10 @@ Voices used in this movie (using https://genny.lovo.ai):
 
 - Simon as IT person
 
+We made use of these tutorials for this movie:
+
+- [How to Record Audio from Google Chrome](https://www.youtube.com/watch?v=1xhb7tHnfVM)
+
 ## SCENE 01: EXT. TALL OFFICE BUILDINGS - DAY
 
 See [README.md](./100/README.md)
