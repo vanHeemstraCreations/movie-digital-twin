@@ -33,3 +33,7 @@ See [README.md](./600/README.md)
 ## 700 - Story Grid
 
 See [README.md](./700/README.md)
+
+## 800 - Tropes
+
+See [README.md](./800/README.md)
