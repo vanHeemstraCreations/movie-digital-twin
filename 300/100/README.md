@@ -2,6 +2,8 @@
 
 Based on "The 9 Types of Stories and How to Master Them" at https://thewritepractice.com/types-of-stories
 
+Based on "The Periodic Table of Storytelling" at https://jamesharris.design/periodic/
+
 ## 100 - Why do we tell stories?
 
 See [README.md](./100/README.md)
