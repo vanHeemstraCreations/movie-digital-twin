@@ -6,4 +6,4 @@ Based on "Tropes - the means by which a story is told by anyone who has a story 
 
 ## Story Molecule: Digital Twin
 
-![Digital-Twin-Story-Molecule](https://github.com/vanHeemstraCreations/movie-digital-twin/assets/1499433/af128b33-6053-436c-bbc5-7f21af4743e0)
+![Digital-Twin-Story-Molecule](https://github.com/vanHeemstraCreations/movie-digital-twin/assets/1499433/d782ba6e-9872-4635-a558-4cc12dac85c7)
