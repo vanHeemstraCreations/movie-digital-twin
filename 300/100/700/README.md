@@ -5,3 +5,13 @@ Based on "The Story Grid: What Good Editors Know (English Edition)" at https://w
 Based on "Story Grid" at https://storygrid.com/
 
 Based on "Crafting Compelling Sentences: 3 Exercises to Improve Your Writing" at https://www.youtube.com/watch?v=2TGBy6ytnf8
+
+## 100 - Genre
+
+## 200 - Inciting Incident
+
+## 300 - Objects of Desire
+
+## 400 - Story Lines
+
+## 500 - Summary
