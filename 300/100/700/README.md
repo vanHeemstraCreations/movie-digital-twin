@@ -8,10 +8,20 @@ Based on "Crafting Compelling Sentences: 3 Exercises to Improve Your Writing" at
 
 ## 100 - Genre
 
+See [README.md](./100/README.md)
+
 ## 200 - Inciting Incident
+
+See [README.md](./200/README.md)
 
 ## 300 - Objects of Desire
 
+See [README.md](./300/README.md)
+
 ## 400 - Story Lines
 
+See [README.md](./400/README.md)
+
 ## 500 - Summary
+
+See [README.md](./500/README.md)
