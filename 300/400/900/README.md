@@ -28,3 +28,4 @@ We make use of these stock sounds for this scene:
 - [Vinyl Crackle 33RPM](https://freesound.org/people/yfjesse/sounds/471007/)
 - [record scratch.wav](https://freesound.org/people/luffy/sounds/3536/)
 - [MacIntosh Sounds](https://froods.ca/~dschaub/sound.html)
+- [Lionel Richie - Hello Is It Me](https://www.myinstants.com/en/instant/lionel-richie-hello-is-it-me/)
