@@ -2,4 +2,4 @@
 
 We follow these tutorials for this scene:
 
-- Easy Camera Flash Effect in After Effects (Beginner Tutorial)
+- [Easy Camera Flash Effect in After Effects (Beginner Tutorial)](https://www.youtube.com/watch?v=s42orAjwDe8)
