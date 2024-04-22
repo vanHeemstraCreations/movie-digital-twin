@@ -38,4 +38,8 @@ See [README.md](./300/README.md)
 
 See [README.md](./700/README.md)
 
+## SCENE 08: EXT. TALL BUILDINGS - END OF DAY
+
+See [README.md](./800/README.md)
+
 ...
