@@ -14,6 +14,7 @@ We make use of these templates / presets for this scene:
 We make use of this stock footage for this scene:
 
 - [Gold Sheet Reveal](https://www.mediafire.com/file/79essghzzxjsh5t/01.mp4) **NOTE**: ...
+- [Ray-Ban Glasses](https://www.glasses.com/gl-us/ray-ban/8056597546416)
 
 We make use of these stock images for this scene:
 
