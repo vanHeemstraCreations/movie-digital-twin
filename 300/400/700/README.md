@@ -1,4 +1,4 @@
-## 700 - SCENE 7: EXT. LUNAPARK - DAY
+# 700 - SCENE 7: EXT. LUNAPARK - DAY
 
 We make use of these templates/plugins/presets in this scene:
 
