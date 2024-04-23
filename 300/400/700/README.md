@@ -1,4 +1,4 @@
-SCENE 7: EXT. LUNAPARK - DAY
+## 700 - SCENE 7: EXT. LUNAPARK - DAY
 
 We make use of these templates/plugins/presets in this scene:
 
@@ -8,3 +8,7 @@ We make use of these templates/plugins/presets in this scene:
 We make use of these sounds/sound effects in this scene:
 
 - [Nightcore - With Or Without You](https://www.youtube.com/watch?v=MJuZOppgdgE)
+
+We make use of these stock images in this scene:
+
+- [Free photo wind spring white stratosphere pure](https://www.freepik.com/free-photo/wind-spring-white-stratosphere-pure_1046122.htm#query=cloud&position=0&from_view=keyword&track=sph&uuid=a830d842-7c6e-48b6-81a3-e3825c04843e)
